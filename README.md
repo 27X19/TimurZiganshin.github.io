@@ -22,6 +22,6 @@
 
 ## Как открыть/запустить
 
-Можно открыть на [GitHub Pages](https://27x19.github.io/27X192.github.io/).
+Можно открыть на [GitHub Pages](https://27x19.github.io/TimurZiganshin.github.io/).
 
 Также, проект открывается из-под LiveServer среды разработки.
